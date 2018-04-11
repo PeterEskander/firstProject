@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: blue;
+}
+form {
+	text-align: center;
+	text-indent: center;
+	color: #FFFFFF;
+	text-decoration: underline;
+	font-size: 20px;
+	font-feature-settings: normal;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
